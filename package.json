@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "animejs": "^3.2.1",
+    "jsonbox-client": "^0.1.4"
+  },
+  "devDependencies": {
+    "parcel": "^2.4.0"
+  }
+}
